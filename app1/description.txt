@@ -1,0 +1,6 @@
+this program take an input from user and compare this word with the keys of the data.json and if this word is exists
+will return the definition
+but if this word is not exists will check if this word simlar to any word in the file and ask the the user if
+the suggestion is true if true will translate it for the user if not will obolgize for the user because the program
+don not has this word
+and if this word not simlar to any word in the data file will tell the user that this word does not exists
